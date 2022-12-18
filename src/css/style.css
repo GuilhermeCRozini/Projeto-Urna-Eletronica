@@ -15,6 +15,8 @@
   }
 
   .urna {
+    margin-inline: auto;
+    margin-top: 170px;
     background-color: #DBD5C9;
     padding: 30px;
     display: flex;
@@ -163,7 +165,7 @@
   }
 
   .aviso--grande {
-    position: relative;
+    margin-top: 20px;
     display: flex;
     justify-content: center;
     font-size: 40px;
